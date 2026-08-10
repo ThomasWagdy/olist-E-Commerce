@@ -96,10 +96,10 @@ The `Project_olist.xlsx` file contains several types of sheets:
 ![Cover](./Images&Icons/Mirror.png)
 
 ### Order View Dashboard
-![Order View Dashboard](./Images& Icons/Screenshot 2026-08-10 161114.png)
+![Order View Dashboard](./Images&Icons/Orderview.png)
 
 ### Analysis Dashboard
-![Analysis Dashboard](./Images& Icons/Screenshot 2026-08-10 161130.png)
+![Analysis Dashboard](./Images&Icons/analytics.png)
 
 ---
 
