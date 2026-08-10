@@ -99,7 +99,7 @@ The `Project_olist.xlsx` file contains several types of sheets:
 ![Order View Dashboard](./Images&Icons/Orderview.png)
 
 ### Analysis Dashboard
-![Analysis Dashboard](./Images&Icons/analytics.png)
+![Analysis Dashboard](./Images&Icons/Analysis.png)
 
 ---
 
