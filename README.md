@@ -93,7 +93,7 @@ The `Project_olist.xlsx` file contains several types of sheets:
 ## 📷 Preview
 
 ### Cover
-![Cover](./Images& Icons/Screenshot 2026-08-10 161019.png)
+![Cover](./Images&Icons/Mirror.png)
 
 ### Order View Dashboard
 ![Order View Dashboard](./Images& Icons/Screenshot 2026-08-10 161114.png)
