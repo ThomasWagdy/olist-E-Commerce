@@ -93,13 +93,13 @@ The `Project_olist.xlsx` file contains several types of sheets:
 ## 📷 Preview
 
 ### Cover
-![Cover](https://raw.githubusercontent.com/ThomasWagdy/olist-E-Commerce/main/screenshots/cover_dashboard.png)
+![Cover](./Images& Icons/Screenshot 2026-08-10 161019.png)
 
 ### Order View Dashboard
-![Order View Dashboard](https://raw.githubusercontent.com/ThomasWagdy/olist-E-Commerce/main/screenshots/order_view_dashboard.png)
+![Order View Dashboard](./Images& Icons/Screenshot 2026-08-10 161114.png)
 
 ### Analysis Dashboard
-![Analysis Dashboard](https://raw.githubusercontent.com/ThomasWagdy/olist-E-Commerce/main/screenshots/analysis_dashboard.png)
+![Analysis Dashboard](./Images& Icons/Screenshot 2026-08-10 161130.png)
 
 ---
 
